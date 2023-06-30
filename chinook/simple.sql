@@ -1,0 +1,1 @@
+SELECT employees.FirstName as name from employees;
